@@ -29,5 +29,5 @@ rosrun thespot_python main.py
 ```
 This magic python code makes my creation walk :3 Just impressive, my baby does it's first steps ^_^
 Okay, I don't understand how to add preview picture, I will try to google it again, so, merely[![ - watch this video](//https://www.youtube.com/watch?v=AuIdL_nDsck&feature=youtu.be/maxresdefault.jpg)](https://www.youtube.com/watch?v=AuIdL_nDsck&feature=youtu.be).
-![And watch at this picture from RVIZ:](img/Thespot.png)
+![And watch at this picture from RVIZ:](https://github.com/UralmashFox/not_Skin_bastard/blob/master/Thespot.png)
 
