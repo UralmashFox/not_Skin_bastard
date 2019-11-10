@@ -31,4 +31,4 @@ This magic python code makes my creation walk :3 Just impressive, my baby does i
 Okay, I don't understand how to add preview picture, I will try to google it again, so, merely[![ - watch this video](//https://www.youtube.com/watch?v=AuIdL_nDsck&feature=youtu.be/maxresdefault.jpg)](https://www.youtube.com/watch?v=AuIdL_nDsck&feature=youtu.be).
 And here is my pic from rviz:
 ![picture](https://github.com/UralmashFox/not_Skin_bastard/blob/master/Thespot.png)
-
+Have a nice day!
