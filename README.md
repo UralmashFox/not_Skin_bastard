@@ -34,4 +34,3 @@ And here is my pic from rviz:
 ![picture](https://github.com/UralmashFox/not_Skin_bastard/blob/master/Thespot.png)
 Have a nice day!
 
-https://youtu.be/PF4iUISW7YI
