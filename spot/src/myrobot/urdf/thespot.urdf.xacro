@@ -1,7 +1,8 @@
 <?xml version='1.0'?>
 
 	<robot name ="thespot_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
-		
+		<xacro:include filename="$(find myrobot)/urdf/thespot.gazebo" />
+
 			<link name="world"/>
   			<joint name="fixed" type="fixed">
     				<parent link="world"/>
@@ -92,6 +93,11 @@
 
 			<!-- A bunch of stuff cut -->
    </xacro:macro>
+
+		<xacro:leg prefix="left_back" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="-0.15 0.2 0.25" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.13 0.055 -0.1" />
+	<xacro:leg prefix="left_forward" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="0.15 0.2 0.25" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.15 0.055 -0.1" />
+	<xacro:leg prefix="right_back" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="-0.15 -0.1 0.25" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.15 -0.055 -0.1" />
+	<xacro:leg prefix="right_forward" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="0.15 -0.1 0.25" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.15 -0.055 -0.1" />
 	<xacro:leg prefix="left_back" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="-0.15 0.2 0.2" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.13 0.055 -0.1" />
 	<xacro:leg prefix="left_forward" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="0.15 0.2 0.2" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.15 0.055 -0.1" />
 	<xacro:leg prefix="right_back" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="-0.15 -0.1 0.2" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.15 -0.055 -0.1" />
@@ -131,6 +137,37 @@
 	<xacro:leg prefix="right_back" reflect_big_link="-0.05 -0.05 -0.05" reflect_big_joint="0.15 0.2 0.2" reflect_small_link="0.05 -0.05 -0.05" reflect_small_joint="-0.15 0.055 -0.1" />
 	<xacro:leg prefix="right_forward" reflect_big_link="-0.05 -0.05 -0.05" reflect_big_joint="-0.15 -0.1 0.2" reflect_small_link="0.05 -0.05 -0.05" reflect_small_joint="-0.15 -0.055 -0.1" />
 	<xacro:leg prefix="left_forward" reflect_big_link="-0.05 -0.05 -0.05" reflect_big_joint="0.15 -0.1 0.2" reflect_small_link="0.05 -0.05 -0.05" reflect_small_joint="-0.15 -0.055 -0.1" />
-	
+ <!--Camera-->
+  		<link name="camera_link">
+    			<collision>
+      				<origin xyz="0 0 0" rpy="0 0.7 0"/>
+      				<geometry>
+    					<box size="0.025 0.025 0.025"/>
+     		 		</geometry>
+    			</collision>
+
+   			<visual>
+      				<origin xyz="0 0 0" rpy="0 0.7 0"/>
+      				<geometry>
+    					<box size="0.025 0.025 0.025"/>
+      				</geometry>
+      				<material name="0 1 0 1"/>
+    			</visual>
+
+    			<inertial>
+      				<mass value="1e-5" />
+      				<origin xyz="0 0 0" rpy="0 0.7 0"/>
+      				<inertia ixx="1e-6" ixy="0" ixz="0" iyy="1e-6" iyz="0" izz="1e-6" />
+    				</inertial>
+  		</link>
+
+		<joint name="camera_joint" type="fixed">
+    			<axis xyz="0 1 0" />
+    			<origin xyz="0.13 -0.05 -0.03" rpy="0 0 0"/>
+    			<parent link="left_back_small_leg"/>
+    			<child link="camera_link"/>
+  		</joint>
+<!--addition-->
+		
 
 </robot>
