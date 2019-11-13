@@ -93,7 +93,7 @@
 
 			<!-- A bunch of stuff cut -->
    </xacro:macro>
-<<<< camera_adding
+
 		<xacro:leg prefix="left_back" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="-0.15 0.2 0.25" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.13 0.055 -0.1" />
 	<xacro:leg prefix="left_forward" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="0.15 0.2 0.25" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.15 0.055 -0.1" />
 	<xacro:leg prefix="right_back" reflect_big_link="-0.05 -0.05 0" reflect_big_joint="-0.15 -0.1 0.25" reflect_small_link="0.05 -0.05 0" reflect_small_joint="-0.15 -0.055 -0.1" />
