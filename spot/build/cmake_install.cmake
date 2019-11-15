@@ -132,6 +132,9 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/marina/spot/build/gtest/cmake_install.cmake")
   include("/home/marina/spot/build/myrobot/cmake_install.cmake")
+  include("/home/marina/spot/build/spotmini/cmake_install.cmake")
+  include("/home/marina/spot/build/thespot_python/cmake_install.cmake")
+  include("/home/marina/spot/build/thespot_control/cmake_install.cmake")
 
 endif()
 

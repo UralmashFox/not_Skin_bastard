@@ -6,3 +6,6 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("myrobot")
+subdirs("spotmini")
+subdirs("thespot_python")
+subdirs("thespot_control")

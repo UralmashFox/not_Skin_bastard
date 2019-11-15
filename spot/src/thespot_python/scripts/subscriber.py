@@ -24,7 +24,7 @@ def image_callback(msg):
         # Save your OpenCV2 image as a png
         #time = str(msg.header.stamp)
 
-        t = str(int(time.time()) - start_time + 1)
+        t = str(int(time.time()) - start_time+1)
         print(t)
 
     
