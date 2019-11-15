@@ -55,5 +55,7 @@ rosrun test FKi.py
 ```
 in case to ged response from all the programm. The result is almostly the same as simple programm, but now it is wrapped into subscriber shell. I know, it's not very beautiful, but I tried to do my best, really :)
 There is a picture of results (left - unit - tests, down right - integrational, up right - terminal with output).
+![picture](https://github.com/UralmashFox/not_Skin_bastard/blob/testing/test.png)
+
 Have a nice day!
 
