@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="2" time="0.002"><testcase classname="test_FK.FK" name="test_world_to_zero" time="0.0006" /><testcase classname="test_FK.FK" name="test_zero_to_one" time="0.0013" /><system-out>&lt;![CDATA[
+done test for world - zero frames
+done test for world - zero frames
+
+]]&gt;</system-out><system-err>&lt;![CDATA[
+
+]]&gt;</system-err></testsuite>
