@@ -1,0 +1,8 @@
+prefix=/home/marina/spot/devel
+
+Name: thespot_control
+Description: Description of thespot_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/marina/spot/devel/lib 
+Requires: 
