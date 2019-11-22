@@ -12,5 +12,4 @@ python:
 install:
   - pip install -r requirements.txt
 # command to run tests
-script:
-  - pytest test test_FK.py
+script: test_FKi.py || test FKi.py
