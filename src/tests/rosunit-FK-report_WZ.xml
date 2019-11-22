@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.008"><testcase classname="test_FK.FK" name="test_world_to_zero" time="0.0082" /><system-out>&lt;![CDATA[
-done test for 'world - 0' frames
-
-]]&gt;</system-out><system-err>&lt;![CDATA[
-/usr/lib/python2.7/unittest/case.py:519: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
-  if not first != second:
-
-]]&gt;</system-err></testsuite>

@@ -1,2 +1,0 @@
-myrobot:tests:thespot_control:thespot_python
--DCATKIN_DEVEL_PREFIX=/home/marina/spot/devel -DCMAKE_INSTALL_PREFIX=/home/marina/spot/install -G Unix Makefiles

@@ -1,8 +1,0 @@
-prefix=/home/marina/spot/install
-
-Name: spotmini
-Description: Description of spotmini
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/marina/spot/install/lib 
-Requires: 
