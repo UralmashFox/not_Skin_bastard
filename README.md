@@ -32,5 +32,8 @@ Okay, I don't understand how to add preview picture, I will try to google it aga
 
 And here is my pic from rviz:
 ![picture](https://github.com/UralmashFox/not_Skin_bastard/blob/master/Thespot.png)
+
+[![Build Status](https://travis-ci.org/{UralmashFox}/{not_skin_bastard}.png?branch=CI_labelling)](https://travis-ci.org/{UralmashFox}/{not_skin_bastard})
+
 Have a nice day!
 
