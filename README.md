@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/{UralmashFox}/{not_skin_bastard}.png?branch=wtf)](https://travis-ci.org/{UralmashFox}/{not_skin_bastard})
 
-[![Build Status](https://travis-ci.com/{UralmashFox/not_skin_bastard.svg?branch=wtf)](https://travis-ci.com/UralmashFox/not_Skin_bastard/wtf)
+[![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=wtf)](https://travis-ci.com/UralmashFox/not_Skin_bastard/wtf)
 
 [![Build Status](https://travis-ci.com/travis-ci/travis-build.svg?branch=master)](https://travis-ci.com/travis-ci/travis-build)
 
