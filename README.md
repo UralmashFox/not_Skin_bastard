@@ -1,12 +1,8 @@
 # not_Skin_bastard I am.
 
 [![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=wtf)](https://travis-ci.com/UralmashFox/not_Skin_bastard)
-
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-
-- Example of telegram badge: [![Chat on Telegram](https://img.shields.io/badge/My-telegram-ff69b4)](https://t.me/UralmashFox)
+[![My Telegram](https://img.shields.io/badge/My-telegram-ff69b4)](https://t.me/UralmashFox)
 
 Wilkommen to the best of the best ever been (no) model of robot Spot!
 So, how to launch it: 
