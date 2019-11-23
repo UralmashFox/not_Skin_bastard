@@ -12,7 +12,7 @@ python:
 #install:
 #  - pip install -r requirements.txt
 # command to run tests
-script: rostest test_FKedwefefi.py || rostest FKi.py
+script: pytest test_FKedwefefi.py || pytest FKi.py
 # language: ruby
 # rvm:
 #  - 2.2
