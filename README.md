@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/{UralmashFox}/{not_skin_bastard}.png?branch=wtf)](https://travis-ci.org/{UralmashFox}/{not_skin_bastard})
 
+[![Build Status](https://travis-ci.com/UralmashFox/not_Skin_bastard/builds/137897383)
+
 Wilkommen to the best of the best ever been (no) model of robot Spot!
 So, how to launch it: 
 1. open your terminal on Ubuntu, which has ROS and paste this:
