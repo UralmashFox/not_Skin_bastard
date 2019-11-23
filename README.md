@@ -57,5 +57,7 @@ in case to ged response from all the programm. The result is almostly the same a
 There is a picture of results (left - unit - tests, down right - integrational, up right - terminal with output).
 ![picture](https://github.com/UralmashFox/not_Skin_bastard/blob/testing/test.png)
 
+[![Build Status](https://travis-ci.org/{UralmashFox}/{not_skin_bastard}.png?branch=CI_add)](https://travis-ci.org/{UralmashFox}/{not_skin_bastard})
+
 Have a nice day!
 
