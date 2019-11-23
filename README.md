@@ -6,7 +6,7 @@
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
-- Example of telegram badge: [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/UralmashFox)  
+- Example of telegram badge: [![Chat on Telegram](https://img.shields.io/badge/My-telegram-ff69b4)](https://t.me/UralmashFox)
 
 Wilkommen to the best of the best ever been (no) model of robot Spot!
 So, how to launch it: 
