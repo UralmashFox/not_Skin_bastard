@@ -1,6 +1,6 @@
 # not_Skin_bastard I am.
 
-[![Build Status](https://travis-ci.org/{UralmashFox}/{not_skin_bastard}.png?branch=wtf)](https://travis-ci.org/{UralmashFox}/{not_skin_bastard})
+[![Build Status](https://travis-ci.org/{UralmashFox}/{not_skin_bastard}.png?branch=wtf)](https://travis-ci.org/{UralmashFox}/{not_skin_bastard}/{wtf})
 
 [![Build Status](https://travis-ci.com/UralmashFox/not_Skin_bastard/builds/137897383)
 
