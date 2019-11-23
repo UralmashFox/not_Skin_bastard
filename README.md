@@ -1,14 +1,6 @@
 # not_Skin_bastard I am.
 
-[![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=CI_add)](https://travis-ci.com/UralmashFox/not_Skin_bastard)
-
 [![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=wtf)](https://travis-ci.com/UralmashFox/not_Skin_bastard)
-
-[![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=camera_adding)](https://travis-ci.com/UralmashFox/not_Skin_bastard)
-
-[![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=master)](https://travis-ci.com/UralmashFox/not_Skin_bastard)
-
-[![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=puh)](https://travis-ci.com/UralmashFox/not_Skin_bastard)
 
 Wilkommen to the best of the best ever been (no) model of robot Spot!
 So, how to launch it: 
