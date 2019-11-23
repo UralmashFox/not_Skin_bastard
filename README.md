@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=wtf)](https://travis-ci.com/UralmashFox/not_Skin_bastard)
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![My Telegram](https://img.shields.io/badge/My-telegram-ff69b4)](https://t.me/UralmashFox)
+[![Made with <3](https://forthebadge.com/images/badges/built-with-love.svg)]
 
 Wilkommen to the best of the best ever been (no) model of robot Spot!
 So, how to launch it: 
