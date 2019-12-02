@@ -1,4 +1,13 @@
 # not_Skin_bastard I am.
+
+[![Build Status](https://travis-ci.com/UralmashFox/not_skin_bastard.svg?branch=CI_add)](https://travis-ci.com/UralmashFox/not_Skin_bastard)
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![My Telegram](https://img.shields.io/badge/My-telegram-ff69b4)](https://t.me/UralmashFox)
+[![Made with <3](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/UralmashFox)
+[![GitHub watchers](https://img.shields.io/github/watchers/UralmashFox/not_Skin_bastard.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/UralmashFox/not_Skin_bastard/watchers/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Github all releases](https://img.shields.io/github/downloads/UralmashFox/not_Skin_bastard/total.svg)](https://GitHub.com/UralmashFox/not_Skin_bastard/releases/)
+
 Wilkommen to the best of the best ever been (no) model of robot Spot!
 So, how to launch it: 
 1. open your terminal on Ubuntu, which has ROS and paste this:
@@ -56,6 +65,8 @@ rosrun test FKi.py
 in case to ged response from all the programm. The result is almostly the same as simple programm, but now it is wrapped into subscriber shell. I know, it's not very beautiful, but I tried to do my best, really :)
 There is a picture of results (left - unit - tests, down right - integrational, up right - terminal with output).
 ![picture](https://github.com/UralmashFox/not_Skin_bastard/blob/testing/test.png)
+
+
 
 Have a nice day!
 
