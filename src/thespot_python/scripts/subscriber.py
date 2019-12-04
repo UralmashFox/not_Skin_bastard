@@ -24,9 +24,10 @@ def image_callback(msg):
         # Save your OpenCV2 image as a png
         #time = str(msg.header.stamp)
 
-        t = str(int(time.time()) - start_time + 1)
+        t = str(int(time.time()) - start_time+1)
         print(t)
-   
+
+    
         cv2.imwrite("/home/marina/spot/pic"+t+".png", cv2_img)
 
 def main():
@@ -37,6 +38,7 @@ def main():
     rospy.Subscriber(image_topic, Image, image_callback)
     # Spin until ctrl + c
     rospy.spin()
+
 
 if __name__ == '__main__':
     main()
