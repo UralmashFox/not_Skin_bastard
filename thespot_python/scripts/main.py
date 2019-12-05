@@ -59,6 +59,21 @@ def talker():
         rate.sleep()
         angle += 0.5
 
+""" def callback(data):
+    rospy.loginfo("I heard %s",data.data)
+    print m._connection_header
+    {'callerid': '/talker_38321_1284999593611',
+    'latching': '0',
+    'md5sum': '992ce8a1687cec8c8bd883ec73ca41d1',
+    'message_definition': 'string data\n\n',
+    'topic': '/chatter',
+    'type': 'std_msgs/String'}
+    
+def listener():
+    rospy.init_node('thespot_talker')
+    rospy.Subscriber("chatter", String, callback)
+    # spin() simply keeps python from exiting until this node is stopped
+    rospy.spin() """
 
 if __name__ == '__main__':
     try:
